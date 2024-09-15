@@ -21,7 +21,7 @@ const CONFIG = {
   HEO_HERO_TITLE_1: '分享编程',
   HEO_HERO_TITLE_2: '与AI副业',
   HEO_HERO_TITLE_3: 'wenghaha.cn',
-  HEO_HERO_TITLE_4: 'AI副业',
+  HEO_HERO_TITLE_4: 'AI行销笔记【翁哈哈】',
   HEO_HERO_TITLE_5: '推荐0成本1天搭建自己的独立站博客',
   HEO_HERO_TITLE_LINK: 'https://wenghaha.cn',
 
